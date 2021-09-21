@@ -30,3 +30,17 @@ class Lab20a
 }
 }
 
+
+OUTPUT:
+Z:\mca16.java>javac Lab20a.java
+
+Z:\mca16.java>java Lab20a
+enter a number
+2
+2is even number
+
+Z:\mca16.java>java Lab20
+
+        Enter any number : 3
+
+        Error : Odd number exception
